@@ -10,12 +10,6 @@
 
 
 
-
-
-# 🗣️ Natural Language Processing (NLP): Fundamentals & Applications
-
-> 💡 **Overview:** Natural Language Processing (NLP) is a core branch of Artificial Intelligence and Deep Learning that enables computers to understand, interpret, generate, and manipulate human language. By bridging the gap between human communication and computational logic, NLP powers modern conversational AI, text analytics, and language translation.
-
 ---
 
 ## 📌 Introduction
